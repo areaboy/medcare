@@ -1,0 +1,11 @@
+Medcare: 
+
+A Secured Online Medical Appointments Booking System Powered by Pangea Security API.
+
+
+License: MIT Open Source
+
+
+
+
+
